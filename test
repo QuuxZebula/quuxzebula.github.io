@@ -1,0 +1,4 @@
+#! /bin/bash
+
+# The test is to open in the browser and see if it looks good:
+firefox index.html
