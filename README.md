@@ -1,1 +1,1 @@
-#[Anything is Popsicle](http://quuxzebula.github.io)
+#[@](http://quuxzebula.github.io)
